@@ -21,35 +21,13 @@ This project predicts MLB player salaries using historical player statistics. Th
 - Feature importance analysis for tree-based models  
 
 ## Repository Structure
-.
-├── data
-│ └── raw
+MLB-Salary-Prediction-Using-Machine-Learning/
+├── data/
+│ └── raw/
 │ ├── batting.csv
 │ ├── salaries.csv
 │ ├── fielding.csv
-│ └── ... (other raw datasets)
-├── notebooks
-│ └── salary_prediction.ipynb
+│ └── people.csv
+├── notebooks/
+│ └── MLB Batter Salaries.ipynb
 └── README.md
-
-bash
-Copy code
-
-## Getting Started
-Clone the repository:
-```bash
-git clone https://github.com/your-username/mlb-salary-prediction.git
-Install dependencies:
-
-bash
-Copy code
-pip install pandas numpy scikit-learn xgboost matplotlib seaborn
-Open the notebook:
-
-bash
-Copy code
-jupyter notebook notebooks/salary_prediction.ipynb
-
-Author
-Jaden Ellis – Data Science Student / Analyst
-Skills: Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
