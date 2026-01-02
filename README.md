@@ -55,4 +55,5 @@ jupyter notebook notebooks/MLB\ Batter\ Salaries.ipynb
 
 ## Author
 Jaden Ellis - Data Science Student / Analyst
+
 Skills: Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
